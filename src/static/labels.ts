@@ -1,5 +1,9 @@
 export const labels = {
-  home: {},
+  home: {
+    headingOne: "How's the sky looking today?",
+    searchBarPlaceholder: "Search for a place",
+    searchBarButton: "Search"
+  },
   header: {
     unitsDropdown: {
       heading: "Units",

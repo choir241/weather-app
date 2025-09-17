@@ -1,6 +1,6 @@
-import { labels } from "../static/labels";
+import { labels } from "../../static/labels";
 import { useState } from "react";
-import ImperialUnitDropdownButton from "../components/ImperialUnitDropdownButton";
+import ImperialUnitDropdownButton from "../../components/UnitDropdown/ImperialUnitDropdownButton";
 import MetricUnitDropdownButton from "./MetricUnitDropdownButton";
 import ToggleUnitButton from "./ToggleUnitButton";
 import UnitDropdownButton from "./UnitDropdownButton";

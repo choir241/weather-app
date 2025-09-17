@@ -1,4 +1,4 @@
-import checkboxIcon from "../assets/images/icon-checkmark.svg";
+import checkboxIcon from "../../assets/images/icon-checkmark.svg";
 
 export default function ImperialUnitDropdownButton({
   toggleUnitValue,
